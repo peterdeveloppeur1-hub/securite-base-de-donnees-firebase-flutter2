@@ -4,7 +4,7 @@ Ce guide est spécialement conçu pour les développeurs qui apprennent à crée
 
 ## 📄 Télécharger le Guide PDF en Français
 
-👉 [Cliquez ici pour télécharger le PDF](./creer-app-securite-firebase-base-de-donnees-guide-dev.pdf)
+👉 [Cliquez ici pour télécharger le PDF](./github.com/peterdeveloppeur1-hub/securite-base-de-donnees-firebase-flutter2/blob/main/creer-app-securite-firebase-base-de-donnees-guide-dev.pdf)
 
 
 ## 🎯 Ce que vous allez apprendre dans ce document :
