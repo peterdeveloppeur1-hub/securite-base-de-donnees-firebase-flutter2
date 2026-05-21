@@ -3,7 +3,9 @@
 Ce guide est spécialement conçu pour les développeurs qui apprennent à créer des applications mobiles avec Flutter et qui souhaitent sécuriser leur base de données (Firebase Firestore).
 
 ## 📄 Télécharger le Guide PDF en Français
+
 👉 [Cliquez ici pour télécharger le PDF](./creer-app-securite-firebase-base-de-donnees-guide-dev.pdf)
+
 
 ## 🎯 Ce que vous allez apprendre dans ce document :
 - Comment protéger une base de données contre les utilisateurs malveillants.
